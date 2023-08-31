@@ -1,0 +1,25 @@
+*{
+    color: black;
+}
+h1{
+    color: blueviolet;
+    flood-color: black;
+}
+h2{
+color: black;
+}
+.clasePato{
+    color: black;
+}
+h3{
+    color:azure;
+}
+section{
+    flex-grow: initial;
+}
+article{
+    color: blueviolet;
+}
+span{
+    color: blanchedalmond;
+}
